@@ -1,0 +1,64 @@
+{
+  "users": {
+    "6281991410940@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6287783973404@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6285379265253@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "120363312112079312@newsletter": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6289505924171@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    }
+  },
+  "chats": {
+    "6281991410940@s.whatsapp.net": {},
+    "6285379265253@s.whatsapp.net": {},
+    "6287783973404@s.whatsapp.net": {},
+    "120363312112079312@newsletter": {},
+    "6289505924171@s.whatsapp.net": {}
+  },
+  "game": {},
+  "database": {},
+  "settings": {
+    "6287783973404@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": false,
+      "autoRecord": true,
+      "autoButton": true,
+      "public": false,
+      "setPrefix": "all",
+      "onlygrub": false,
+      "autoread": false,
+      "menuType": "buttonImage"
+    },
+    "62895328181745@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": false,
+      "autoRecord": true,
+      "autoButton": true,
+      "public": false,
+      "setPrefix": "all",
+      "onlygrub": false,
+      "autoread": false,
+      "menuType": "buttonImage"
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
